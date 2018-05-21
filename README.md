@@ -4,7 +4,7 @@ A simple activity tracking application using Spring data couchbase and Spring bo
 
 ## Setup
 
-Create a bucket called `activitytracker` and add a primary N1QL index.
+Create a bucket called `activitytracker`.
 
 Create a User with username `activitytracker` and password `password` 
 
